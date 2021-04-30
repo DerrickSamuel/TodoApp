@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'NewTodoApp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ce501de9aaed4bbf8ba75b8c1943091a }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4e64c6d519ec45138c10de40ca0ec9c3 }}
